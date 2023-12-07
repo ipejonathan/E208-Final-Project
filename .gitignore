@@ -1,5 +1,7 @@
 /data/*.pkl
 /data
 /composer-classification
+/BPEtokenizer
+/BERT-Pretrained
 parameters.txt
 sentences.txt
