@@ -1,0 +1,5 @@
+/data/*.pkl
+/data
+/composer-classification
+parameters.txt
+sentences.txt
