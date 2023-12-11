@@ -3,3 +3,7 @@
 /composer-classification
 parameters.txt
 sentences.txt
+/training-logs
+/models
+/src/gpt2/wandb
+/src/roberta/wandb
