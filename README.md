@@ -1,4 +1,4 @@
 # E208-Final-Project
 Repository for Sheet Music classification task (adopted from MIRLAB PBSCSR)
 
-Notes document: https://docs.google.com/document/d/1k8pv4Y28-0UGKEtbfhs8e5_GjEVFjEEyZ0ZcOcLThH8/edit
+Report: https://drive.google.com/file/d/1JRCGYmSoJlxm9Yw44fDL8A6E3JH6l99h/view?usp=sharing
